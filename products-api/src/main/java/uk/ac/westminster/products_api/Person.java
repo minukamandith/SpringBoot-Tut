@@ -23,7 +23,7 @@ public class Person {
 
     public Person(String name, String email) {
         this.name = name;
-        this.name = email;
+        this.email = email;
     }
 
     public String getName() {
