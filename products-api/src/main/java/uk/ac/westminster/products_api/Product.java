@@ -15,6 +15,6 @@ public class Product {
     }
 
     public Long getId() {return id;}
-    public String getName() {return name;}
+    public String getName() {return name;}  //when getter si not se there is nothing for it to call, so the field is skipped.
     public double getPrice() {return price;}
 }
