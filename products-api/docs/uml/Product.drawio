@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="JwB9EhylHD4nNOeN6KEx">
+    <mxGraphModel dx="2079" dy="1219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YGQs5hX_wVLhT86XV48y-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="260" x="290" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YGQs5hX_wVLhT86XV48y-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Product&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="390" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YGQs5hX_wVLhT86XV48y-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="260" x="290" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YGQs5hX_wVLhT86XV48y-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- id : Long&amp;nbsp;&lt;div&gt;- name : String&lt;/div&gt;&lt;div&gt;- price : double&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="290" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="YGQs5hX_wVLhT86XV48y-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="260" x="290" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3ox81d9KAOTCuzJtsNdA-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="+ Product&lt;div&gt;+Product (Long id, String name, double price)&lt;/div&gt;&lt;div&gt;+ getId() : Long&lt;/div&gt;&lt;div&gt;+ getName() : String&lt;/div&gt;&lt;div&gt;+ getPrice() : double&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="290" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
